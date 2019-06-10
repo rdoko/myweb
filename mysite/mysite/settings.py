@@ -139,6 +139,6 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.sina.com'
 EMAIL_PORT = 25
 EMAIL_HOST_USER = 'lance67@sina.com'
-EMAIL_HOST_PASSWORD = 'lance67520'
+
 # 注册有效期天数
 CONFIRM_DAYS = 1
